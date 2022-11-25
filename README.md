@@ -10,8 +10,10 @@
 5. Orange Data Mining Tool
 6. Why Orange ?
 7. Installation
-8. Welcome Window of Orange
+8. Welcome screen
 9. Intro of Orange widgets and Canvas
+10. Creating your fisrt workflow
+11. 
 
 
 
